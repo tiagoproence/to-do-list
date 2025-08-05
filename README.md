@@ -2,9 +2,6 @@
 👉 https://tiagoproence.github.io/to-do-list/
 
 # 📋 To-Do List com JavaScript
-## 🖼️ Preview
-
-![To-Do List Preview](./capa-readme.png)
 
 Uma aplicação simples de lista de tarefas (To-Do List) feita com HTML, CSS e JavaScript puro.
 
@@ -22,11 +19,6 @@ Uma aplicação simples de lista de tarefas (To-Do List) feita com HTML, CSS e J
 - CSS3
 - JavaScript (Vanilla JS)
 - LocalStorage
-
-## 🖼️ Preview
-
-![To-Do List Preview](./capa-readme.png)
-
 
 > Você pode tirar um print da sua tela e trocar o link acima.
 
