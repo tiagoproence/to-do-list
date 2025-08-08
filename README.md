@@ -1,4 +1,4 @@
-🔗 **Projeto online:**  
+🔗 **Projeto online:**   
 👉 https://tiagoproence.github.io/to-do-list/
 
 # 📋 To-Do List com JavaScript
@@ -24,4 +24,6 @@ Uma aplicação simples de lista de tarefas (To-Do List) feita com HTML, CSS e J
 
 ## 🚀 Como usar
 
-1. Clone este repositório:
+1. **Clone este repositório:**
+   ```bash
+   git clone https://github.com/tiagoproence/to-do-list.git
